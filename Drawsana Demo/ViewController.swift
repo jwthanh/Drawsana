@@ -83,6 +83,7 @@ class ViewController: UIViewController {
     StarTool(),
     TriangleTool(),
     PentagonTool(),
+    AngleTool(),
   ] }()
 
   let strokeWidths: [CGFloat] = [
